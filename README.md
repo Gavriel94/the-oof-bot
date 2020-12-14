@@ -1,0 +1,12 @@
+# the-oof-bot
+Twitter bot posting random oofs
+
+The oof bot uses a .txt file containing 1348 adjectives and to describe an oof. 
+A sentence such as "The humble oof." is posted every 30 minutes.
+
+Words that have been used are not removed from the file, duplication may occur. This is so the bot can (in theory) run indefinitely.
+New words can be added to the .txt file, the bot simply needs to be re-delopyed for changes to take effect.
+
+The oof bot is hosted on PythonAnywhere.
+
+
