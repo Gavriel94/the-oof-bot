@@ -1,6 +1,8 @@
 # the-oof-bot
 Twitter bot posting random oofs
 
+An oof is an exclamation. Oofs can be happy, sad or anything in between.  
+
 The oof bot uses a .txt file containing 1348 adjectives to describe an oof. 
 A sentence such as "The humble oof." is posted every 30 minutes.
 
